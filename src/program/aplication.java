@@ -48,6 +48,7 @@ public class aplication {
 		
 		sc.close();
 		
+		System.out.println("Finalizado");
 
 	}
 
